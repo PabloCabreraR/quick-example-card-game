@@ -1,0 +1,27 @@
+.flex-column-center {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#begin-game {
+    margin-top: 50px; 
+    width: 100px;
+}
+
+.flex-space-around {
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+
+}
+
+.display-none {
+    display: none;
+}
+
+.new-game {
+    background-color: grey;
+}
